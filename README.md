@@ -30,13 +30,13 @@ Nexcent is a single-page web application designed to provide lessons and insight
 
 **##Features**
 
-   Responsive design using Bootstrap
+   -Responsive design using Bootstrap
   
-   Clear navigation menu with links to different sections: Home, Service, Feature, Product, Testimonial, and FAQ 
+   -Clear navigation menu with links to different sections: Home, Service, Feature, Product, Testimonial, and FAQ 
   
-   Registration and login options
+   -Registration and login options
   
-   Informational content to help photographers grow their business
+   -Informational content to help photographers grow their business
    
    
   
