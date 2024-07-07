@@ -6,24 +6,27 @@
 Nexcent is a single-page web application designed to provide lessons and insights from 8 years of experience, particularly aimed at helping photographers decide whether to grow their business through a website or social media.
 
 
+
 **##Table of Contents**
 
- -Features
+   -Features
  
- -Technologies Used
+   -Technologies Used
 
- -Getting Started
+   -Getting Started
  
-    -Prerequisites
-    -Installation
+      -Prerequisites
+      -Installation
     
- -Usage
+   -Usage
 
- -Contributing
+   -Contributing
  
- -Acknowledgements
+   -Acknowledgements
  
  
+ 
+
 
 **##Features**
 
@@ -34,6 +37,7 @@ Nexcent is a single-page web application designed to provide lessons and insight
    Registration and login options
   
    Informational content to help photographers grow their business
+   
    
   
 
@@ -46,6 +50,7 @@ Nexcent is a single-page web application designed to provide lessons and insight
    JavaScript
   
    Bootstrap
+
    
   
 
@@ -63,6 +68,8 @@ Installation
 3.Open index.html in your web browser:
 
      You can directly open the index.html file in your web browser to view the application.
+
+     
 
      
 
