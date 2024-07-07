@@ -1,9 +1,8 @@
 **##Nexcent**
 
-  Demo Link : 
+  Demo Link :  https://khantaha2112.github.io/Nexcent/
  
-    https://khantaha2112.github.io/Nexcent/
- 
+  
 Nexcent is a single-page web application designed to provide lessons and insights from 8 years of experience, particularly aimed at helping photographers decide whether to grow their business through a website or social media.
 
 
@@ -27,9 +26,12 @@ Nexcent is a single-page web application designed to provide lessons and insight
 
 **Features**
 
-  Responsive design using Bootstrap.
+  Responsive design using Bootstrap
+  
   Clear navigation menu with links to different sections: Home, Service, Feature, Product, Testimonial, and FAQ 
+  
   Registration and login options
+  
   Informational content to help photographers grow their business
   
 
