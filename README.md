@@ -1,6 +1,8 @@
 **##Nexcent**
 
- Demo LInk : https://khantaha2112.github.io/Nexcent/
+  Demo Link : 
+ 
+    https://khantaha2112.github.io/Nexcent/
  
 Nexcent is a single-page web application designed to provide lessons and insights from 8 years of experience, particularly aimed at helping photographers decide whether to grow their business through a website or social media.
 
@@ -44,11 +46,11 @@ Nexcent is a single-page web application designed to provide lessons and insight
 Installation
  1. Clone the repository:
     
-     git clone https://github.com/khantaha2112/Nexcent.git
+        git clone https://github.com/khantaha2112/Nexcent.git
     
 2.Navigate to the project directory:
 
-     cd Nexcent
+       cd Nexcent
      
 3.Open index.html in your web browser:
 
