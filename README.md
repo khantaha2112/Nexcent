@@ -4,30 +4,37 @@
  
 Nexcent is a single-page web application designed to provide lessons and insights from 8 years of experience, particularly aimed at helping photographers decide whether to grow their business through a website or social media.
 
+
 **Table of Contents**
 
--Features
--Technologies Used
--Getting Started
+ -Features
+ -Technologies Used
+ -Getting Started
     -Prerequisites
     -Installation
--Usage
--Contributing
--Acknowledgements
+ -Usage
+ -Contributing
+ -Acknowledgements
+ 
 
 **Features**
-  Responsive design using Bootstrap
-  Clear navigation menu with links to different sections: Home, Service, Feature, Product, Testimonial, and FAQ
+
+  Responsive design using Bootstrap.
+  Clear navigation menu with links to different sections: Home, Service, Feature, Product, Testimonial, and FAQ 
   Registration and login options
   Informational content to help photographers grow their business
+  
 
 **Technologies Used**
+
   HTML
   CSS
   JavaScript
   Bootstrap
+  
 
 **Getting Started**
+
 Installation
  1. Clone the repository:
      git clone https://github.com/khantaha2112/Nexcent.git
@@ -37,6 +44,7 @@ Installation
      You can directly open the index.html file in your web browser to view the application.
 
 **Usage**
+
  Once you open the index.html file in your browser, you can navigate through 
  the different sections using the navigation bar at the top:
 
